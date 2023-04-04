@@ -202,3 +202,36 @@ The results of each of the queries were then saved in a .csv file to be used in 
 ## Loading Data into PowerBI and making a Data Model:
 
 Each of the .csv tables were then loaded into PowerBI and a data model was then built to connect the tables:
+
+<p align="center">
+  <img src="data model.PNG" alt="Example image" style="display: block; margin: 0 auto;">
+</p>
+
+<em>Note: The budget excel file was also loaded and connected as can be seen above. A separate table for Key Measures was made later for ease of access and to avoid cluttering (mentioned later)</em>
+
+Some of the data types of the columns were transformed in the Transform tool option in PowerBI. 
+
+##  Making key measures to use as KPIs and putting them in a separate table:
+
+Key Measures including:
+- Sum of Sales
+- Total Budget amount
+- difference between Sales and Budget
+
+were created for the purposes of our analyses. A separate table called 'Key Measures' stored all of the variables:
+
+<p align="center">
+  <img src="key measures.PNG" alt="Example image" style="display: block; margin: 0 auto;">
+</p>
+
+## Constructing a dashboard:
+
+Line Graphs, Donut Charts, Bar Charts and World Map features were combined to tell a comprehensive store to out stakeholders at a glance.
+
+Slicers were added to sort by Customer City, Product Sub Category and Product Name. 
+
+The final dashboard is as follows and the link to the interactive dashboard is given as well:
+
+<p align="center">
+  <img src="dashboard picture.PNG" alt="dashboard" style="display: block; margin: 0 auto;">
+</p>
