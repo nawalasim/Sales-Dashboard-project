@@ -230,7 +230,7 @@ Line Graphs, Donut Charts, Bar Charts and World Map features were combined to te
 
 Slicers were added to sort by Customer City, Product Sub Category and Product Name. 
 
-The final dashboard is as follows and the link to the interactive dashboard is given as well:
+The final dashboard is as follows and the link to the interactive dashboard is given [here](https://app.powerbi.com/links/qVdoeBlLeW?ctid=402d2a37-422a-4cb6-9563-6afdf0cd3a39&pbi_source=linkShare):
 
 <p align="center">
   <img src="dashboard picture.PNG" alt="dashboard" style="display: block; margin: 0 auto;">
